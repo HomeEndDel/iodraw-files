@@ -44,6 +44,9 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-16" value="通知管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-17" value="图表展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
