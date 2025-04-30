@@ -65,7 +65,7 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-24" value="信息采集与处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="460" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rqREejaYs6MVY7lwsJ5O-30" value="信息采集与处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-30" value="权限处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="460" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
