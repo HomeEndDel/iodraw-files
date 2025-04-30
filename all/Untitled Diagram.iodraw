@@ -98,8 +98,11 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.773;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rqREejaYs6MVY7lwsJ5O-42" target="rqREejaYs6MVY7lwsJ5O-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rqREejaYs6MVY7lwsJ5O-57" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-58" value="关系型数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="840" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-59" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
