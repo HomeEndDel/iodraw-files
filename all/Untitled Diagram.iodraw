@@ -60,13 +60,13 @@
           <mxGeometry x="290" y="370" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-22" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rqREejaYs6MVY7lwsJ5O-40">
-          <mxGeometry x="40" y="30" width="25" height="105" as="geometry" />
+          <mxGeometry x="60" y="30" width="25" height="105" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-34" value="信息采集与处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rqREejaYs6MVY7lwsJ5O-40">
-          <mxGeometry x="99" y="30" width="25" height="105" as="geometry" />
+          <mxGeometry x="130" y="30" width="25" height="105" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-35" value="数据查找" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rqREejaYs6MVY7lwsJ5O-40">
-          <mxGeometry x="200" y="27.5" width="25" height="105" as="geometry" />
+          <mxGeometry x="200" y="30" width="25" height="105" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-36" value="数据交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rqREejaYs6MVY7lwsJ5O-40">
           <mxGeometry x="270" y="27.5" width="25" height="105" as="geometry" />
