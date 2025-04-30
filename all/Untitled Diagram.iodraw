@@ -64,8 +64,10 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqREejaYs6MVY7lwsJ5O-42" target="rqREejaYs6MVY7lwsJ5O-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rqREejaYs6MVY7lwsJ5O-42" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="830" width="410" height="160" as="geometry" />
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-42" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="290" y="830" width="50" height="40" as="geometry">
+            <mxRectangle x="290" y="830" width="410" height="160" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-43" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rqREejaYs6MVY7lwsJ5O-42">
           <mxGeometry x="25" y="60" width="105" height="40" as="geometry" />
@@ -87,8 +89,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rqREejaYs6MVY7lwsJ5O-63" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="660" width="410" height="120" as="geometry" />
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-63" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="290" y="660" width="50" height="40" as="geometry">
+            <mxRectangle x="290" y="660" width="410" height="120" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-58" value="关系型数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rqREejaYs6MVY7lwsJ5O-63">
           <mxGeometry x="25" y="40" width="105" height="40" as="geometry" />
