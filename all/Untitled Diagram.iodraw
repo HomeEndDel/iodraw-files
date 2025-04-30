@@ -57,7 +57,7 @@
           <mxGeometry x="290" y="200" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-22" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="335" y="400" width="25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-23" value="数据查找" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="80" height="40" as="geometry" />
