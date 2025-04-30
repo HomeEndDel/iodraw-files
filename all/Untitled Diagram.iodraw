@@ -32,6 +32,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
