@@ -56,7 +56,7 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-21" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="rqREejaYs6MVY7lwsJ5O-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-22" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
