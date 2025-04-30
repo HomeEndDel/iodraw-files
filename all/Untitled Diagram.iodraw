@@ -59,6 +59,9 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-22" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-23" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
