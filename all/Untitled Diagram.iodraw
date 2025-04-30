@@ -83,11 +83,6 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-41" value="硬件层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="705" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rqREejaYs6MVY7lwsJ5O-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rqREejaYs6MVY7lwsJ5O-42">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="597.5294117647059" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-42" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="640" width="410" height="160" as="geometry" />
         </mxCell>
@@ -99,6 +94,9 @@
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-45" value="移动端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rqREejaYs6MVY7lwsJ5O-42">
           <mxGeometry x="280" y="60" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.773;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rqREejaYs6MVY7lwsJ5O-42" target="rqREejaYs6MVY7lwsJ5O-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
