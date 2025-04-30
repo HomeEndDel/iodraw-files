@@ -59,9 +59,6 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqREejaYs6MVY7lwsJ5O-40" target="rqREejaYs6MVY7lwsJ5O-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rqREejaYs6MVY7lwsJ5O-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqREejaYs6MVY7lwsJ5O-40" target="rqREejaYs6MVY7lwsJ5O-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-40" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="420" width="400" height="160" as="geometry" />
         </mxCell>
@@ -111,7 +108,7 @@
           <mxGeometry x="130" y="845" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-63" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="800" width="200" height="200" as="geometry" />
+          <mxGeometry x="290" y="800" width="410" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
