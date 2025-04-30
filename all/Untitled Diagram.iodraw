@@ -110,6 +110,9 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-62" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="845" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-63" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="800" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
