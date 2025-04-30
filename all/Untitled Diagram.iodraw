@@ -77,6 +77,9 @@
         <mxCell id="rqREejaYs6MVY7lwsJ5O-41" value="硬件层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="610" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rqREejaYs6MVY7lwsJ5O-42" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="580" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
