@@ -78,7 +78,7 @@
           <mxGeometry x="330" y="27.5" width="25" height="105" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-41" value="硬件层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="705" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-42" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="850" width="410" height="160" as="geometry" />
@@ -102,7 +102,7 @@
           <mxGeometry x="570" y="690" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-62" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="845" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rqREejaYs6MVY7lwsJ5O-63" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="650" width="410" height="120" as="geometry" />
